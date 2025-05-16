@@ -32,7 +32,6 @@ Channel, Platform, Region, and Seasonal breakdowns
 Conversion Funnel: Visits → Qualified Shoppers → Net Orders → Room Nights
 
 Efficiency Metrics:
-
 1. Shopper Conversion Rate
    
 2.Booking Conversion Rate
