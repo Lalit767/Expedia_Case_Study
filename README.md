@@ -34,8 +34,11 @@ Conversion Funnel: Visits → Qualified Shoppers → Net Orders → Room Nights
 Efficiency Metrics:
 
 1. Shopper Conversion Rate
+   
 2.Booking Conversion Rate
+
 3.Traffic Efficiency (Nights/Visit)
+
 4.Room Nights per Order
 
 
