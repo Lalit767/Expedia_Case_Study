@@ -43,7 +43,6 @@ The dataset provided in CSV format includes simulated booking data with the foll
 
 ✅ Predictive Modeling
 Linear Regression: To identify top positive and negative drivers of Net Room Nights and interpret coefficients directly for business insights
-
 Random Forest Regressor: Used for non-linear relationships and variable importance analysis to validate and complement linear model insights
 ---
 
